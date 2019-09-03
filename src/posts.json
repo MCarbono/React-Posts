@@ -1,0 +1,22 @@
+{
+    "posts": [
+        {
+            "id": "1",
+            "title": "Post 1",
+            "url": "https://mumbrella.com.au/wp-content/uploads/2018/07/Australia-Post-red-post-box-768x577.jpeg",
+            "like" : false 
+        },
+        {
+            "id": "2",
+            "title": "Post 2",
+            "url": "https://mumbrella.com.au/wp-content/uploads/2018/07/Australia-Post-red-post-box-768x577.jpeg",
+            "like" : false 
+        },
+        {
+            "id": "3",
+            "title": "Post 3",
+            "url": "https://mumbrella.com.au/wp-content/uploads/2018/07/Australia-Post-red-post-box-768x577.jpeg",
+            "like" : false 
+        }
+    ]
+}
